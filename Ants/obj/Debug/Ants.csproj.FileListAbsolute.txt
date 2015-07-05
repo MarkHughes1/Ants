@@ -1,0 +1,9 @@
+E:\git\ants\Ants\bin\Debug\Ants.exe.config
+E:\git\ants\Ants\bin\Debug\Ants.exe
+E:\git\ants\Ants\bin\Debug\Ants.pdb
+E:\git\ants\Ants\obj\Debug\Ants.csprojResolveAssemblyReference.cache
+E:\git\ants\Ants\obj\Debug\Ants.frm_Output.resources
+E:\git\ants\Ants\obj\Debug\Ants.Properties.Resources.resources
+E:\git\ants\Ants\obj\Debug\Ants.csproj.GenerateResource.Cache
+E:\git\ants\Ants\obj\Debug\Ants.exe
+E:\git\ants\Ants\obj\Debug\Ants.pdb
