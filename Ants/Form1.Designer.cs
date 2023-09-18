@@ -35,18 +35,21 @@
             // 
             // pct_Output
             // 
-            this.pct_Output.Location = new System.Drawing.Point(12, 12);
+            this.pct_Output.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pct_Output.Location = new System.Drawing.Point(15, 15);
+            this.pct_Output.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.pct_Output.Name = "pct_Output";
-            this.pct_Output.Size = new System.Drawing.Size(568, 514);
+            this.pct_Output.Size = new System.Drawing.Size(989, 880);
             this.pct_Output.TabIndex = 0;
             this.pct_Output.TabStop = false;
             this.pct_Output.Click += new System.EventHandler(this.pct_Output_Click);
             // 
             // btn_go
             // 
-            this.btn_go.Location = new System.Drawing.Point(487, 532);
+            this.btn_go.Location = new System.Drawing.Point(818, 907);
+            this.btn_go.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.btn_go.Name = "btn_go";
-            this.btn_go.Size = new System.Drawing.Size(93, 29);
+            this.btn_go.Size = new System.Drawing.Size(186, 56);
             this.btn_go.TabIndex = 1;
             this.btn_go.Text = "GO!";
             this.btn_go.UseVisualStyleBackColor = true;
@@ -54,14 +57,13 @@
             // 
             // frm_Output
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(592, 573);
+            this.ClientSize = new System.Drawing.Size(1021, 978);
             this.Controls.Add(this.btn_go);
             this.Controls.Add(this.pct_Output);
             this.DoubleBuffered = true;
-            this.MaximumSize = new System.Drawing.Size(600, 600);
-            this.MinimumSize = new System.Drawing.Size(600, 600);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "frm_Output";
             this.ShowIcon = false;
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;

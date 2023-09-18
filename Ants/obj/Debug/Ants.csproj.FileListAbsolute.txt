@@ -7,3 +7,13 @@ E:\git\ants\Ants\obj\Debug\Ants.Properties.Resources.resources
 E:\git\ants\Ants\obj\Debug\Ants.csproj.GenerateResource.Cache
 E:\git\ants\Ants\obj\Debug\Ants.exe
 E:\git\ants\Ants\obj\Debug\Ants.pdb
+D:\GithubStuff\Ants\Ants\bin\Debug\Ants.exe.config
+D:\GithubStuff\Ants\Ants\bin\Debug\Ants.exe
+D:\GithubStuff\Ants\Ants\bin\Debug\Ants.pdb
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.csproj.AssemblyReference.cache
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.frm_Output.resources
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.Properties.Resources.resources
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.csproj.GenerateResource.cache
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.csproj.CoreCompileInputs.cache
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.exe
+D:\GithubStuff\Ants\Ants\obj\Debug\Ants.pdb
